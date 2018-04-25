@@ -1,0 +1,372 @@
+Introduction
+
+ - Political Ecology is a diverse body of knowledge and modes of practice that addresses common questions
+
+Chapter 1 The Hatchet and the Seed
+
+'Human' and 'Ecological' systems are not truly separate, but intertwined and have evolved together for millenia
+
+Apolitical explanations of human-ecological interactions fail to address how humans have exerted power to modify the joint system
+
+Wolf appears to have coined term in 1972, and has evolved from separate approaches to use a common core of assumptions/explanatory mode
+
+ * P.6-P.7 contains a chart of varying definitions and goals.
+
+Apolitical ecology explanations evolved from 18th century scientific approaches, and commonly blame population for environmental damage
+
+Malthusian population pessimists and Economist modernization evangelists both claim to apolitically explain human-environment interactions
+
+However, even these expressly apolitical explanations depend in highly normative assumptions that themselves emerge from politics
+
+Political ecology is "more explicit in its normative goals and more outspoken about the assumptions from which its research is conducted"
+
+Environmental change as well as ecological conditions are produced by political processes that generate winners and losers
+
+The conceptions held about environmental change, ecology, and the connections between people and environment are politically constructed
+
+Political ecology simultaneously seeks to critique the existing order while providing alternative formulations of the system
+
+Four theses are central to political ecology: degradation/marginalization, environmental conflict, conservation/control, identity/movement
+
+Chart of the 4 theses, what they explain, and relevance on P.14
+
+Degradation and marginalization asks the whys and hows of environmental change and connects to political/economic context
+
+Environmental conflict looks at the problem of environmental access, who has it and why - struggles are usually gendered, classes, etc.
+
+Conservation and control examines the whys and hows of political and economic exclusion as a means of protecting environments
+
+Identity and social movement deals with upheaval in social systems, particularly where livelihood and environment intersect
+
+Additional arguments revolve around community collective action, human labor in the environment, risk taking/aversion in human behavior
+
+More arguments revolve around diversity in environmental perceptions, political corruption's causes/effects, knowledge/power relationship
+
+
+
+Chapter 2 A Tree With Deep Roots
+
+
+
+Kropotkin can reasonably be thought of as the foundational thinker for political ecology, although he did not use the term
+
+He sought to combat the interpretation of Darwin that focused on struggle, arguing that mutual aid was foundational to evolution
+
+Geography itself has a dark history as an agent of political and economic control advancing social darwinism/colonialism/exploitation
+
+Kropotkin helped deconstruct the 'scientific' norms of his time, which assumed that social hierarchy is normal per evolution
+
+Early PE hallmarks: focus on production, archival/field empirics, focus on marginalized, interest in trad. eco. knowledge, landscape focus
+
+Alexander von Humboldt is referred to as the 'grandfather of modern geography' and began the 'continental critique'
+
+He along with Elisee Reclus, Alfred Wallace, and Mary Sommerville investigated physical phenomena, but were drawn to social interactions
+
+Ultimately they ended up connecting the two, seeing that human action rooted in power modified the environment
+
+George Marsh and other American geographers demonstrated that apolitical explanations could be made, stunting political ecology's growth
+
+Progress in nascent PE actually took place in Anthropology and cultural ecology via Alice Hamilton, Florence Kelly, and Jane Addams
+
+Cultural ecology such as that of Carl Sauer at Berkeley tied human culture to land patterns instead of the reverse
+
+Julian Steward's positivist cultural ecology sought to expand beyond description and determine theory
+
+This in turn played into the social science quantitative revolution, as cultural ecology sought common metrics to judge all societies
+
+A materialist focus thus evolved to take a central role, addressing production, often showing local practices to be highly adaptive
+
+This direction unfortunately runs into issues when the logic is taken to the extreme, adaption becomes a rule and is depoliticized
+
+Bernard Nietschmann's work with the Miskito people found that a political-economic explanation was necessary to understand dynamic change
+
+In the end, apolitical approaches went in a tautological circle, and arguably a body of theory was needed to address causality
+
+
+
+Chapter 3 The Critical Tools
+
+
+
+Common property theory is at the core of political ecology, and stands in contrast to the Hardin conception of 'tragedy of the commons'
+
+However TC doesn't stand up to a vast body of empirical evidence showing common management functioning across the world
+
+External stresses and rules that fail to cope are to blame for commons failure, not common management itself
+
+One major external stress is imposition of rules under the guise of preventing commons failure which appropriates common property
+
+Marxist thought contributed by focusing on materialist interpretation of history coupled with recognition of capitalist surplus extraction
+
+However, Marxism fails to directly address the interactions of humans with the environment which shape one another
+
+Dependency, accumulation, degradation are linked, as capitalist surpluses extract value from and fail to care for degraded environments
+
+PE not explicitly materialist, does assume society/culture depends on econ. acts, exogenous production regimes, global market dependency
+
+PE is tied to political economy, must examine who benefits from resource control and who is subject to control
+
+Peasant studies helps take materialist approach forward, using peasant households as focus of study to explain progress of history
+
+Peasants were found by Chayanov to be drudgery-minimizing, not profit-seeking, efficiently use resources to ensure survival
+
+Social systems of reciprocal support that feature tolerable mutual exploitation are fundamental to peasant societies
+
+Gramsci argued that the imposition of power is not perfect, and the subjugated resist in small ways where the gaps in control exist
+
+The role of women has been under-studied with their labor often being extracted at the household level, reinforced by cultural norms
+
+Relegation of women to certain roles coupled with exploitation of their labor undermines societies, key knowledge is lost
+
+Critical environmental history and political ecology are linked, but the variables of interest to latter are often difficult to study
+
+Orientalism/colonialism creeps into apolitical theories to explain human-environment systems, often relying on us vs. them dichotomies
+
+The role of the subaltern is important to political ecology, addressing the essential contributions of non-elites in resistance and change
+
+Post-structuralism is also important, as power controls ideas and narratives about truth, requiring that its effects be deconstructed
+
+Political ecology can be thought of as emerging from positivism reaching limits, the growth of critical theory, and era of global issues
+
+
+
+Chapter 4 A Field Crystallizes
+
+
+
+ * P.71-72 contains excellent chart of concepts and processes in political ecology
+
+Chains of explanation are vital, connecting various forces and elements together to understand phenomena in holistic fashion
+
+Induction can still be important, but is dangerous because it can easily mask the researcher's political bias 
+
+Political ecology relies on theory to identify 'what to look for' when studying a human-environment system
+
+There is an art to constructions of chains of explanation, most significant variables impacting each level of analysis need to be IDed
+
+Starvation in the Sahel was tied to peanuts, introduced by colonial officers to provide a market-competitive food oil
+
+Sahel was poor climate for peanuts, and global markets caused prices to collapse, drought and winds destroyed topsoil
+
+Land expansion drove nomadic tribesfolk into poorer lands, where their herds died off, starvation ensued
+
+Marginalization is an essential process: disempowered people pushed to poorer spaces, where they have to intensify efforts to survive
+
+Intensification of efforts on already marginal lands degrades these lands, forcing greater intensification in a vicious cycle
+
+Locals in Sahel had adapted to conditions for centuries, intercropping and establishing mutually supportive networks
+
+Global markets and capitalization of economy of exchange broke social networks/moral economy, dependence on global markets grew
+
+When a sufficiently major shock arrived in the form of a major drought the system could not cope and broke into famine
+
+This chain of explanation and focus on system is characteristic of work in political ecology: 'silent violence' & 'land degradation...'
+
+
+
+Chapter 5 Destruction of Nature 
+
+
+
+Apolitical ecology argues that environmental degradation takes place due to overpopulation, selfishness, and ignorance
+
+Political ecology counters that degradation itself is difficult to judge at times, and the notion itself is politicized
+
+Environmental systems may well be changing in very typical cyclic patterns rather than permanently degrading from one state to another
+
+It is the political and economic uses of an environmental system that often determines whether it is perceived as in decline
+
+Natural productivity, biodiversity, and usefulness of an environmental system may be the best metrics of degradation
+
+Political ecology also examines the change in risk ecology: who is made to bear the risks of environmental change the most?
+
+Part of the difficulty in assessing apolitical degradation is lack of an observed baseline, local people may carry that knowledge best
+
+ 
+
+Chapter 6 Construction of Nature
+
+
+
+Many phenomena that are called 'natural' arise from social-environment interactions, perceptions rely on the construction of nature
+
+Focus on the construction of reality goes back at least to Kant, and was carried forward by Foucault
+
+Human imagination is seen in constructivism to be tied to social and cultural influences and responsible for constructing reality
+
+Existing authorities in a power hierarchy rely on certain constructions to justify their continued positions of power
+
+It is important to uncover these systems of controlled constructions in order to get to the bottom of what is actually happening
+
+Political ecologists focus on constructions that are taken for granted, that disallow alternative interpretations, and create the world
+
+Examining the constructions inherent in a system are important for identifying the points where powerful interests exert control
+
+Soft constructivism is usually relied on as it allows for other factors than human agency to have meaning in a system
+
+There is a danger in political ecologists' use of constructivism - to what extent are they simple seeking to enthrone new constructions?
+
+Environmentalists have constructed views of 'nature' that inform specific efforts in restoration, possibly damaging the real nature
+
+Although people closest materially to nature often have deep knowledge bases, their views are often discounted by 'experts'
+
+There can be significant conflict when attempts are made to connect traditional knowledge with that produced by science
+
+Discourse analysis, local narratives, counter-mapping, taxonomies, and geneologies can help use local knowledge to id constructions
+
+
+
+Chapter 7 Degradation and Marginalization
+
+
+
+Degradation and Marginalization are systematic and recurring consequences of state development initiatives and global market integration
+
+Local systems of production that have been sustainable for long periods become unsustainable due to the new pressures placed on them
+
+Costs and risks become increasingly passed to local producers who must extract more from natural systems in order to survive
+
+Similar effects can occur under different systems, but this economic system leads to widespread ecological change, generally degradation
+
+Apolitical ecology tends to embrace malthusian and 'tragedy of the commons' explanations for deforestation in the Amazon
+
+However these ignore the fact that the poor in the Amazon are responding to global economic pressures in the only way they can
+
+However it is possible for the interaction with the environment to be positive, as was the case with banana plantations in the Caribbean
+
+Development that pays sufficient attention to the knowledge and needs of locals and embraces equity/justice can avoid degradation
+
+Degradation/Marginalization is not an independent theory per se, but a framework for understanding how systems interact
+
+
+
+Chapter 8 Conservation and Control
+
+
+
+Control of resources has been taken from locals whose practices have been historically environmentally benigh in favor of global interests
+
+Conservation and preservation of the environment is not necessarily associated with improved outcomes for local people and social systems
+
+Unfortunately efforts to preserve the environment in parks and preserves have often simply excluded local people dependent on them
+
+Conservation emerges from Foucault's idea hegemonic governmentality, where government rule is self-imposed by people via institutions
+
+Such institutions control social behaviors and the perception of what ecological outcomes are appropriate without considering locals
+
+Strong state control is not absolutely necessary, merely acceptance of state goals by those with power in an area such as managers
+
+Wilderness is an imposed ideal that is constructed, and typically excludes people from nature
+
+Spatially bounded conservation territories are ineffective socially and environmentally as well
+
+Conservation has historically been associated with coercive state control, which has sought to make locals internalize state norms
+
+Social capital and cultural norms is inherent in traditional systems of management but is broken down by state level policy
+
+External government constraints too often ignore local and essential information and portray local people as agents of degradation
+
+The case of New England fisheries management, which emphasized ITQs, shows that privatization served to undermine sustainable systems
+
+Privatization in fact promoted accumulation of capital by a few powerful companies, which forced locals out of business
+
+Coercive state conservation institutions are not effectively challenged by simply granting concessions to locals as in buffer zones
+
+Political ecology will be essential in identifying alternative models of conservation in the future that do not rely on state power
+
+
+
+Chapter 9 Environmental Conflict
+
+
+Scarcities that result from enclosure/seizure by powerful interests like states, firms, or elites exacerbate underlying social conflicts
+
+Such conflicts are also exacerbated when one local goup takes control of collective resources and excludes others
+
+Exclusion by a local group against other local groups can occur via leveraging state, firm, or elite backing
+
+Such exacerbated conflicts represent a politicization of environmentally rooted conflict, and conflicts themselves can be ecologized
+
+Social systems are organized to divide power and labor and structurally differentiate access to and responsibility for natural systems
+
+Property rights are better understood as a complex bundle of rights and responsibilities that are controlled by politics and history
+
+Historically, assumptions about class, race, and gender drive development in particular ways which leads to uneven results
+
+Who is in control, who decides, and who is expected to perform what tasks are all vital political ecology questions in systems
+
+Privatization of rights tends to undermine existing understandings of rights and responsibilities, re-framing rights to benefit holders
+
+Many countries split access and use of land and resources along gender lines, which under pressure can lead to exploitative relationships
+
+Aid initiatives directed towards women in some cases have been hijacked by men and used to increase gender inequities
+
+Connections between humans and the environment are not limited to objects, but encompass rights, distributions, and division of labor
+
+Environmental struggles are material in nature, but ideas and constructions can promote or prevent conflict
+
+Equity and sustainability are not necessarily scale dependent, but dependent on specific arrangements between groups
+
+Increased attention to poverty and women is not the same as attention to class and patriarchy
+
+It is increasingly important to explain how and why conflict doesn't happen, as conflict is not inevitable in environmental systems
+
+How groups are formed in ecological networks as well as how individuals respond and adapt are influenced by knowledge, process, politics
+
+ 
+
+Chapter 10 Environmental Identity and Social Movement
+
+
+
+Changes in environmental management have created opportunities/imperatives for local groups to secure political representation/power
+
+Powerful global political and economic forces can be blunted by effective, cross-cutting social organization at a local level
+
+Risks and hazards tend to be disproportionately placed on marginalized groups such as people of color in the US or women
+
+Livelihood changes that are coupled with specific controls over development projects can yield different outcomes than might be expected
+
+Subsistence living relied on systems of reciprocity that serve to reduce risk via moral expections with regard to shared burdens
+
+Such reciprocal social systems can be adaptive and prevent collapse when the system is exposed to environmental or economic shocks
+
+One key element of such systems with respect to political ecology is letting them express their claims and knowledge on their own terms
+
+Externally imposed narratives, such as that in the Chipko movement in India, can obscure the actual causes in service of external goals
+
+There is a danger in this aspect of political ecology in romanticizing local people, forming just a different narrative about them
+
+Most political ecologists believe people should have self determination, control their own labor, build collective community institutions
+
+Collective communities should be constructed to redistribute shared risk and maintain the dignity of all members of the community
+
+Postcolonial studies must recognize that answers and actions that emerge from a local level are as valuable as those from academia
+
+ 
+
+Chapter 11 Where to Now
+
+
+
+There have been strong critiques of political ecology as being too political/normative or insufficiently tied to cohesive theory
+
+ *P.206-207 lays out explicit theories of political ecology in condensed form
+
+There is room for improvement, particularly in moving towards symmetrical explanations
+
+PE should move away from degradation due to the term's politicization and construction, and towards the concept of production
+
+Agents should move from being viewed as peasants to universal understanding of the important of producers
+
+Shifting from the somewhat confusing idea of explanatory chains to networks could avoid issues of assuming hierarchy
+
+Hybridity thesis: ecological characteristics and objects impinge on the human political world.
+
+Hybridity thesis: However they also alter human systems and take on a new importance
+
+Hybridity thesis: Networks form, which recently have been exploited by the powerful to build and maintain their own power
+
+Hybridity thesis: Powers have explicitly sought to set the constructions of human/nature boundaries and control the network
+
+Hybridity thesis: Victims of power have suffered unintended deleterious consequences, and resistance emerges from traditional networks   

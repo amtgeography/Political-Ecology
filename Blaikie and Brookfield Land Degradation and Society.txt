@@ -1,0 +1,188 @@
+Chapter 1 - Defining and Debating the Problem
+
+Degradation implies a loss of productivity, consuming capital inputs as well as labor at a higher rate than undegraded land
+Full explanations of degradation require combined social and natural science efforts, as each sphere affects the other
+Land degradation occurs naturally, but interaction with humans produces a need to manage land - land manager perspective is vital
+Degradation has many causes: improper land use, poor selection of lands, etc - but single hypothesis explanations rarely sufficient
+Degradation's definition has a social component as different natural processes may be differentially helpful/harmful to different people
+Capability of land to satisfy particular use is a better measure than value when assessing degradation
+"Net degradation = (natural degrading processes + human interference) - (natural reproduction + restorative management)" P. 7
+Landesque capital is defined as land management with an intent to secure future production, investment that goes beyond current crop demands
+Sensitivity of land defined as "the degree to which a given land system undergoes change due to natural forces, following human interference"
+Resilience of land defined as "the ability of land to reproduce its capacity after disturbance" and what human effort is needed to secure it
+Resilience and sensitivity can be combined into 4-square matrix for corresponding low/low, low/high, high/low, high/high respective values 
+Interactions between human and natural processes at different scales are critical to understanding degradation
+Regional political ecology is approach coined here, accounting for spatial variability and the effects of political economy on ecology
+Many 3rd world areas suffer from common symptoms that are largely due to incorporation into global economic system, modded by local factors
+Marginality is a key idea, differently conceived in different disciplines, but typically disadvantaged people are coupled with poor lands
+
+
+Chapter 2 - Approaches to the Study of Land Degradation
+
+The approach of regional political ecology in examining a phenomenon can be described as constructing chains of explanation
+Chain of explanation for land degradation begins with land managers' situation, links to inter-relationships, then to the state/globe
+A major single hypothesis for land degradation follows Malthus, is summed as population pressure on resources (PPR)
+PPR is present in many cases, but not all, and sometimes lack of population leads to degradation - PPR is not in and of itself sufficient
+A counter to PPR a la Boserup (1976) is that increased population leads to innovation, however, this also does not appear to always hold
+Intensification can be seen as any change that results in higher output from a given quantity of land
+PPR can be key when it forces use of sensitive/resilient lands, undermines existing management practices/institutions, but can provide labor
+Some explanations for degradation argue that land users are stupid, conservative, or lazy - particularly in the context of restoration
+However, these don't actually examine why land users behave in a certain way, and they can be seen as employing a survival algorithm
+Only rich land users with the capacity for absorbing risk may be able to adopt new management techniques, while the poor have no room
+Pressures from remote land users, like corporate interests, can massively degrade lands intentionally and knowingly
+In Nepal, PPR has allowed improved terracing, reducing erosion, although it has been accompanied by deforestation and marginal land use
+In Nepal, poverty is seen as the basic cause of management that is poor, which in turn leads to deeper poverty
+
+
+Chapter 3 - Measuring Land Degradation (Mike Stocking) 
+
+
+The neutrality of science in terms of its process and measurements is often assumed, however this obscures many important factors
+Humans are part of science, they make mistakes, they choose the context for interpretation, they are biased and ideological
+Simply determining what to measure is a huge question that brings into play issues of context, prejudices, and so on
+Data collection in land degradation research is likely a significant error source due to difficulty of actually measuring as well as scaling
+Frequency/magnitude problems are present, low frequency big events can be a major player but be missed, or be focused on and skew results
+Scale is another major issue as in erosion material moves but differently according to circumstances, fixed measurements points overestimate
+Measurements have no intrinsic value and have to be put in an understandable context, some models like USLE end up being mis-used
+
+
+Chapter 4 - Decision-making in Land Management
+
+Scale is important whenever costs and benefits must be assessed due to different units of measurement, movement of study objects, umw
+Actual activity important in land use may take place at a very different scale than regulation, land users benefit differentially
+It is essential to identify the proper scale(s) in order to adequately connect elements of a chain of explanation
+Scale is also important in many cases where solutions are proposed, scale level of focus tends to lead to different solution possibilities
+Factors critical in understanding marginalization of a people may be occurring at the state or global level, requiring further scale thoughts
+Temporal factors are critical as well due to spatial connections only apparent over time and events/policies with a time lag
+Scale, spatial or temporal, must be tied to the situation/process being researched - scales are typically nested in one another
+Land use by managers can be thought of as allocating resources of different relative scarcities to achieve/maintain income stream from land
+Decisions in this vein take place in a system where actions are limited by political economy, society, institutions, umw
+Land degradation must be perceived and any proposed action taken to remedy it must be viable within the systemic context
+Single cause explanations are likely to fail, and governments seeking to intervene may have to address numerous factors
+To understand what is happening it is important to identify both who is responsible for decision-making and what information they have
+Social relations in production are essential: who has land/resources, who decides on use, what surplus results and who controls it
+Property rights are often present in the social relations of production and take various forms depending on context and histor
+Common property is often present in rural contexts which are managed cooperatively by some land users, possibly with different goals
+Surplus production and control is essential, capitalism tends to promote such production and often removes it from local control
+Pre-capitalist surplus production and accumulation was also common, but often had socially mediating elements and surplus didn't move far
+Typically, land use remains in peasant hands but control over surplus extraction does not, pressures determine extent/type of land use
+Some international interdependence backed by specialization has always been around, but the 19th century took this idea to a new level
+Colonial processes most dramatically and rapidly achieved transformation to a globally integrated system, forcing peasants to work for export
+All societies harbor conflict over resource use and surplus control, but modern capitalism tends to divide decision making from land users
+
+
+Chapter 5- economic stuff, passed over
+
+
+Chapter 6 - On Measurement and Policy, Scientific Method and Reality
+
+Two key hypothesis may explain the effects of the conditions of colonialism on land management in colonized regions
+One is that relations of production and extraction of surplus pressure land managers or deprive them of resources, preventing managemen
+The other is that some conditions of accumulation see capitalist land users employ bioresources for short term gain, extracting profit
+Colonialism was a damaging revolutionary process but there was at times good intent involved, and improved land management was an objective
+In most colonies a good portion of the best land was taken by settlers, forcing more indigenous people onto fewer suitable lands
+A result was that marginal lands that were otherwise not extensively used had to be occupied in order to ensure locals could survive
+In some places uncultivated lands were taken by the new state and given to colonizers, excluding locals from a supportive production area
+Local labor in colonies was often recruited, forcibly or via taxation, to ensure adequate supplied in colonial mining and other extractions
+Bias against local methods and culture led some colonizers to view even effective land management as being inferior to Euripean methods
+Many European practices such as clear felling and open-field farming were not well adapted to colonial ecologies and promoted degradation
+Growing need for cash labor brought shortages of essential labor needed for production of landesque capital
+There were at times effective land preservation techniques employed, which also deprived local people of needed means to support livelihoods
+Hill areas have been subject to significant degradation as being typically marginal for ag and home to marginalized people under colonialism
+Hill peoples tended to be more capable of resisting intervention due to terrain and the lower benefits of conquest
+But damage done to trade networks, increased population pressures due to refugees, and market penetration drove intensive land use
+In conservation, lack of attention to local knowledge and conditions can be devastating, and coercion of locals is often necessary
+
+
+Chapter 7 - Questions from History in the Mediterranean and Western Europe
+
+Natural variation in conditions around degradation is important, but human actions generally have precedence even when such variation is high
+The Med area has seen a great deal of social change over several thousand years and climate has fluctuated significantly as well
+Most indigenous forest cover is gone, montane areas are almost bare of soil, but exploitative agriculture is largely to blame
+But during times of relative social calm adaptations and management progressed to deal with variation and conservation
+In times of war and conflict innovations of peaceful times broke down, degradation ensued - several cycles of above have been noted
+At times the climate shifts changed underlying conditions of soil movement and production, often tied to storm patterns
+Human activities have at times contributed to preventing erosion rather than causing it, degradation is linked to rural population decline
+Central-West Europe is characterized by less rainfall erosion aside from the little ice age than the Med, erosion tied to ploughing depth
+Forest clearance and slope erosion are also tied togetgher, and removal of hedges as well, but some ploughing methods prevent erosion
+In 18th century Lorraine significant productivity declines appear tied to livestock epidemics, forced labor in transportation
+Pastoral and arable lands exhibit a mutually dependent relationship in Europe, with sheep grazing also providing fertilizer for farmland
+Deteriorating rural conditions in ancien regime France led to rural support for the revolution, as rural areas lost resilience to crisis
+Germany experienced erosion greater than France in the renaissance-industrial period and due apparently to social conflict, not climate
+
+
+Chapter 8 - Degradation under pre-capitalist social systems
+
+New Guinea provides an interesting case study because of long inhabitation, indigenous farming practices, and relatively recent globalization
+Land management practices have been adapted over time, poor practices dying out and effective ones surviving because of their succcess
+In the case of Easter Island poor land management resulting in deforestation mayhave been sufficiently maladaptive to destroy the culture
+Pacific islands tend to have highly sensitive soil systems that can be rapidly and heavily eroded by natural processes if unvegetated
+Most of society in New Guinea is village based with a system of chiefs who redistribute costs and benefits in their domain
+The agriculture of New Guinea was traditionally tied to Taro cultivation in wetlands, eventual dryland farming, and pigs
+Sweet potatoes were introduced relatively recently and significantly changed practices in New Guinea, with ag land expanding
+Pigs function both as a cultural means of expressing wealth as well as a farming tool, providing fertilization and reducing hunting needs
+Sweet potato farming helped to disrupt traditional trade networks and reinforce exiswting gender power imbalances
+The changing social relationships allowed by trade controllers encouraged intensified use of more marginal lands 
+Land degradation appears to be associated with exploitation of the weak in a society
+
+
+Chapter 9 - Management, Enterprise and Politics in the Development of the Tropical Rain Forest Lands
+
+Deforestation of tropical forests in support of agriculture is a source of erosion and changing land management in the modern era
+Typically deforested tropics are poor in nutrients and are often seen as badly degraded, and yet they can be profitably used by local people
+Increased cultivation need not necessarily lead to deforestation, however, and doesn't always do s
+Changes in a given SES are responsible for existing adaptive systems being altered, often leading to degradation
+Mechanization can be responsible for degradation when it destroys existing adaptive land managemet systems
+In places like Malaysia and Indonesia, rural population patterns, crop choice, and ultimately land management are politically driven 
+Capitalism can be seen in may developing regions as exacerbating existing political conflicts
+Degradation is partly a problem of perception, as degradation from one perspective is actually beneficial from another, politics is key
+In Fiji, the restriction on the majority of the population from owning or utilizing key lands leads to inequality
+Where land management intersects with social patterns and existing institutions, changes must be approached with a broad view of the system
+
+
+Chapter 10 - The Degradation of Common Property Resources
+
+Common property resources: individual use but not possession, some number of users have independent use rights, users constitute collective
+Distinguished from private goods and public goods, and have been around for a very long time all over the world
+They are however particularly vulnerable to induced degradation, even though they can last effectively for a very long time
+Characteristics of CPRs include their subtractability in use (individual damage done to others) and how excludable they are (keep others out)
+Non-members of the collective are typically kept out by physical barriers and/or surveillance by members
+Successful management of CPR requires reciprocity and following collectively set rules in a form of institution
+Garrett Hardin's 'tragedy of the commons' thesis assumes rational users will free-ride due to the utility of doing so, so CPRs will degrade
+Howeverm the 'game' where individuals decide to free-ride or not is iterative, so has temporal element, and punishment is a viable strategy
+CPRs can survive for a very long time, have likely existed throughout human history, and are of increasing interest in land management
+Nomads in Iran have been seen to utilize harvested crops in an area, with manure from the herds benefiting the local farmers
+CPRs can fail when external pressures grow: encroachment can undermine them, so can the destruction of power centers that regulate them
+Big Men refusing to follow rules, and preferentially benefiting their own interests, can undermine and destroy a CPR
+In India, land reforms that removed a controlling class ended up destroying the CPR in local villages that had previously persisted
+Individual plots of land belonging to ruling class and managed collectively were privatized by landholders, with incentives to over-use
+Increased prices for products of CPRs in India have also been seen as a driver of over-use, as incentives to over-use improve
+The decreased productivity of these CPRs in India can be tied as much or more to decreased farmer inter-regulation as over-use
+
+
+Chapter 11 - Skipped because of irrelevance of socialist countries now, plus that idiot Smil
+
+
+Chapter 12 - The Farmer, The State and the Land in Developed Market Economies
+
+Conservation efforts over 50 years in the developed world have not had the desired effects, and land degradation is still an issue
+Agricultural land is highly abstracted from other parts of society, marginal lands have been abandoned, and degraded lands haven't recovered
+In the US and in other developed countries conservation subsidies have been tied to maintaining farm incomes rather than conservation
+Small farms are largely gone, and the majority of agriculture is now managed by large entities with potentially low conservation interest
+High vertical integration of agriculture supply chains has led to more energy being used in transport/marketing than growing crops
+In Australia, most of the land is arguably poor for agriculture and highly susceptible to erosion
+Aboriginal occupation was less dense and less land-intensive, modern occupation is now viewed with pessimism due to land sensitivity
+
+
+Chapter 13 - Retrospect and Prospect
+
+Underlying causal mechanisms of degradation include ignorance, profit-seeking, poverty, and at times population pressures
+Population pressures can cause degradation but can also stimulate conservation, and which path dominates is locally dependent (PPR)
+Production pressures are heightened where social relations of production focus on surplus extraction (Poverty)
+Market exchanges can cause degradation through surplus extraction due to power imbalances occurring in markets (Profit-seeking)
+The relationships in factors that cause degradation are complex, and misunderstanding systems is easy (Ignorance)
+Wherever marked social inequality exists, whether in markets, colonial systems, feudalism, degradation due to surplus extraction is a thread
+Focus on the land manager is necessary to really understand the causal mechanisms of degradation
+Centralized state control is insufficient in most cases due to lack of localized knowledge
+A purely populist approach is also insufficient due to pre-existing social system dynamics
+Effective policy creates conditions within which effective management practices may be adopted
